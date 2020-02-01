@@ -1,0 +1,107 @@
+body{
+    background-color: #e7ebf0;
+    padding: 0;
+    margin: 0;
+
+}
+.top{
+    height: 200px;
+    background-color: #5682a3;
+    text-decoration: none;
+}
+.top a {
+    text-decoration: none;
+}
+.main{
+    margin-top: -60px;
+    margin-left: 500px;
+    height: 380px;
+    width: 350px;
+
+    background-color: #ffffff;
+}
+.text{
+    margin-top: -40px;
+
+    margin-left: 550px;
+    font-size: 24px;
+}
+#text{
+    color: #ffffff;
+}
+#text2{
+    font-size: 24px;
+    color: #ffffff;
+    margin-top: -30px;
+
+    margin-left: 750px;
+}
+#photo{
+    margin-left: 500px;
+    margin-top: 100px;
+    height: 40px;
+    width: 40px;
+}
+#welcome{
+   text-align: center;
+    margin-left: -50px;
+    color: #84a2bc;
+}
+#learn{
+text-decoration: none;
+    margin-left: 650px;
+    color: #84a2bc;
+    font-weight: 700;
+}
+#sign{
+    padding-top: 30px;
+    padding-left: 30px;
+    font: 12px/18px 'Open Sans',"Lucida Grande","Lucida Sans Unicode",Arial,Helvetica,Verdana,sans-serif;
+    font-weight: bold;
+}
+#please{
+    font: 12px/18px 'Open Sans',"Lucida Grande","Lucida Sans Unicode",Arial,Helvetica,Verdana,sans-serif;
+    padding-left: 30px;
+    color:rgb(153, 153, 153);
+}
+.form{
+margin-left: 30px;
+
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+#country{
+    padding-left: 30px;
+}
+#phoni{
+    margin-left: 200px;
+margin-top: -20px;
+}
+.subtitle{
+    padding-top: 40px;
+    padding-left: 30px;
+
+}
+#code_form{
+    margin-left: 30px;
+}
+.forma{
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

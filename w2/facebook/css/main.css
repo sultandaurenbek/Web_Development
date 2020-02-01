@@ -1,0 +1,343 @@
+body{
+    background-color: #dce0ec;
+    padding: 0;
+    margin: 0;
+}
+
+div{
+    box-sizing: border-box;
+}
+
+header {
+background-color: #385898;
+height: 82px;
+}
+.auturezation{
+    font-family:Helvetica, Arial, sans-serif;
+    width: 30;
+   
+    color: #fff;
+    font-size: 12px;
+  
+    
+}
+.login{
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    margin-top: -65px;
+    margin-left: 425px;
+   
+}
+
+.word_email{
+font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+font-size: 12px;
+font-weight: 400;
+}
+.password{
+
+    margin-top: -51px;
+    margin-left: 690px;
+   
+}
+.vvod{
+    width: 150px;
+    height: 16px;
+    margin-top: 4px;
+   
+}
+.container{
+    
+   width: 930px;
+   margin: 0 auto;
+}
+
+.logo{
+margin-top: 30px;    
+height: 32px;
+width: 170px;
+}
+.mapword{
+    float: left;
+    width: 460px;
+}
+
+#txt1{
+    margin-top: 40px;
+    color: rgb(14, 56, 95);
+    font-size: 20px;
+    font-weight: 700;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+
+}
+.map{
+    border-image-repeat: stretch;
+    border-image-slice: 100%;
+    height: 195px;
+    width: 537px;
+}
+
+.registration{
+    
+    float: right;
+    width: 400px;
+
+}
+
+.button_registration{
+    margin-top: 10px;
+    border:1px solid rgb(44, 81, 21);;
+    background-color: #699351; 
+    color: #fff;
+    border-radius: 5px;
+   height: 40px;
+    width: 220px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.button_registration:hover{
+    background-color: rgb(105, 167, 78);
+}
+.button_forgot{
+    margin-top: -5px;
+    color: rgb(156, 180, 216);
+    text-decoration: none;
+    text-align: center;
+    
+}
+
+.forgot_vhod{
+margin-top: -43px;
+padding-left: 175px;
+}
+ 
+.button_vhod{
+border-radius: 3px;
+color:white;
+border:1px solid rgb(40,70,125);
+background-color: rgb(70,95,178);
+width: 50px;
+height: 22px;
+font-weight: bold;
+}
+
+
+.button_forgot:hover{
+    text-decoration: underline;
+}
+
+.button_vhod:hover{
+    background-color:#385898;
+}
+
+.registration_word{
+margin-top: 15px;
+color: rgb(51, 51, 51);
+font-size: 36px;
+font-weight: 600;
+font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+
+}
+.fast_word{
+   margin-top: -25px;
+    color: rgb(29, 33, 41);
+    font-size: 19px;
+    font-weight: 400;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+
+}
+.forgot_button{
+    margin-top: -5px;
+}
+
+.registration_name_input{
+   
+    font-size: 18px;
+    width: 178px;
+    height: 30px;
+    border-radius: 5px;
+    border: 1px solid rgb(189, 199, 216);
+    font-family:Helvetica, Arial, sans-serif;
+
+}
+.registration_surname{
+    margin-top: -34px;
+    position: relative;
+    margin-left: 200px;
+}
+.registration_numberoremail_input{
+    position: relative;
+    margin-top: 10px;
+   
+    font-size: 18px;
+    width: 380px;
+    height: 30px;
+    border-radius: 5px;
+    border-width: 1px;
+ 
+
+}
+
+.registration_password_input{
+    position: relative;
+    margin-top: 10px;
+   
+    font-size: 18px;
+    width: 380px;
+    height: 30px;
+    border-radius: 5px;
+    border-width: 1px;
+}
+.birthdate{
+    color: rgb(144, 148, 156);
+    font-size: 16px;
+    font-weight: 700;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, '.SFNSText-Regular', sans-serif;
+}
+select{
+  
+    background-color: #fff;
+    border-width: 1px;
+    border: rgb(255, 255, 255);
+    font-family:Helvetica, Arial, sans-serif;
+	font-size:12px;
+	font-weight:400;
+	height:30px;
+
+}
+.gender{
+    color: rgb(144, 148, 156);
+    font-size: 16px;
+    font-weight: 700;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, '.SFNSText-Regular', sans-serif;
+}
+
+.gender1{
+color: rgb(29, 33, 41);
+font-size: 18px;
+font-weight: 400;
+vertical-align: middle;
+font-family: system-ui, -apple-system, BlinkMacSystemFont, '.SFNSText-Regular', sans-serif;
+}
+
+#vopros{
+    position: relative;
+    margin-top: -19px;
+    margin-left: 310px;
+}
+#vopros_1{
+    position: relative;
+    margin-top: -20px;
+    margin-left: 220px;
+}
+
+#text_politika{
+    font-size: 12px;
+    color: rgb(119, 119, 119);
+    font-family: Helvetica, Arial, sans-serif;
+    
+}
+
+.uslovia{
+   text-decoration: none; 
+   color: rgb(56, 88, 152);
+}
+.uslovia:hover{
+    text-decoration: underline;
+}
+.create_page_one{
+    margin-top: 25px;
+font-family: Helvetica, Arial, sans-serif;
+ color: rgb(102, 102, 102);
+ font-size: 13px;
+font-weight: 700;
+}
+
+.create_page{
+    font-family: Helvetica, Arial, sans-serif;
+    text-decoration: none;
+    color: rgb(56, 88, 152);
+    font-size: 13px;
+    font-weight: 700;
+}
+
+.create_page:hover{
+    text-decoration: underline;
+}
+footer{
+    margin-top: 600px;
+    height: 130px;
+    background-color: white;
+}
+
+.languages{
+    text-decoration: none;
+
+}
+.languages:hover{
+    text-decoration: underline;
+}
+nav{
+    position: relative;
+    margin-top: 10px;
+    float: left;
+}
+.menu{
+    padding: 0;
+    margin: 0;
+    display: block;
+}
+.menu li{
+    float: left;
+    display: block;
+    margin-right: 15px;
+
+}
+.menu li a{
+    color:rgb(56, 88, 152);
+    text-decoration: none;
+    font-size: 12px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, '.SFNSText-Regular', sans-serif;
+}
+.menu li a:hover{
+    text-decoration: underline;
+}
+
+.plus_button{
+    background-color: whitesmoke;
+    border-radius: 3px;
+    margin-top: -2px;
+    padding-bottom: 10px;
+    display: block;
+    border:1px solid #dce0ec;
+    height: 11px;
+    width: 29px;
+    text-align: center;
+    font-size: 30px;
+    text-decoration: none;
+}
+
+.plus_button:hover{
+   background-color: #dce0ec;
+}
+.line{
+  
+    margin-top: 30px;
+    height: 1px;
+    background-color:#dce0ec;
+    width: 930px;
+}
+.word_facebook{
+   position: relative;
+    margin-top: 40px;
+    color: rgb(115, 115, 115);
+    font-size: 11px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, '.SFNSText-Regular', sans-serif;
+}
+
+.menu_settings{
+    margin-top: -8px;
+}

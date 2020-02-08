@@ -22,7 +22,7 @@ for (i = 0; i < btn_delete.length; i++) {
 
 // Add a "choose" symbol when clicking on a list item
 var list = document.querySelector('ul');
-list.addchoose_objentListener('click', function(choose_obj) {
+list.addEventListener('click', function(choose_obj) {
   if (choose_obj.target.tagName === 'LI') {
     choose_obj.target.classList.toggle('choose');
   }
@@ -41,8 +41,9 @@ function addElement() {
   }
   document.getElementById("txt-input").value = "";
   
-  var span = document.createElement("SPAN");
-  var txt = document.createTextNode("\u00D7");
+ var span = document.createElement("SPAN");
+var txt = document.createTextNode("\u00D7");
+ 
   span.className = "btn_delete";
   span.appendChild(txt);
   li.appendChild(span);

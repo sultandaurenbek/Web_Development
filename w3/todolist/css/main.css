@@ -98,6 +98,7 @@ ul {
   
   /* Style the btn_delete button */
 .btn_delete {
+
     position: absolute;
     right: 0;
     top: 0;

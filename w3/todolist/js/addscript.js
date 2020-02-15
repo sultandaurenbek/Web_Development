@@ -4,11 +4,14 @@
 var myNodelist = document.getElementsByTagName("LI");
 var i;
 for (i = 0; i < myNodelist.length; i++) {
-  var span = document.createElement("SPAN");
-  var txt = document.createTextNode("\u00D7");
-  span.className = "btn_delete";
-  span.appendChild(txt);
-  myNodelist[i].appendChild(span);
+
+ var span = document.createElement("IMG");
+        span.setAttribute("src","https://cdn2.iconfinder.com/data/icons/e-business-helper/240/627249-delete3-512.png");
+        span.setAttribute("width","15px");
+        span.setAttribute("align","right");
+        span.className = "btn_delete";
+        document.body.appendChild(span);
+        myNodelist[i].appendChild(span);
 }
 
 var btn_delete = document.getElementsByClassName("btn_delete");
@@ -30,28 +33,36 @@ list.addEventListener('click', function(choose_obj) {
 
 // creating a new item  int the list when clicking on the "Add" button
 function addElement() {
-  var li = document.createElement("li");
   var inputText = document.getElementById("txt-input").value;
-  var t = document.createTextNode(inputText);
-  li.appendChild(t);
+
   if (inputText === '') {
     alert("You need to write something!");
-  } else {
-    document.getElementById("myUL").appendChild(li);
   }
-  document.getElementById("txt-input").value = "";
-  
- var span = document.createElement("SPAN");
-var txt = document.createTextNode("\u00D7");
- 
-  span.className = "btn_delete";
-  span.appendChild(txt);
-  li.appendChild(span);
+  else{
 
+  var li = document.createElement("li");
+  var t = document.createTextNode(inputText);
+  li.appendChild(t);
+document.getElementById("myUL").appendChild(li);
+
+document.getElementById("txt-input").value = "";
+  
+var span = document.createElement("IMG");
+        span.setAttribute("src","https://cdn2.iconfinder.com/data/icons/e-business-helper/240/627249-delete3-512.png");
+        span.setAttribute("width","15px");
+        span.setAttribute("align","right");
+        span.className = "btn_delete";
+        document.body.appendChild(span);
+        myNodelist[i].appendChild(span);
+
+      
+      
   for (i = 0; i < btn_delete.length; i++) {
     btn_delete[i].onclick = function() {
       var div = this.parentElement;
       div.style.display = "none";
+    }
+    
     }
   }
 }

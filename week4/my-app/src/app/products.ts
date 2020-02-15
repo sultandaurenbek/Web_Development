@@ -1,0 +1,74 @@
+export const products = [
+  {
+    url: 'https://aliexpress.ru/item/33004981158.html?spm=a2g0o.productlist.0.0.789475bdTuMARj&algo_pvid=e13fe9ce-6058-4554-bbab-12f8f4920b90&algo_expid=e13fe9ce-6058-4554-bbab-12f8f4920b90-0&btsid=0b0a01f815817374021861828e2a75&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_',
+    img: 'https://cdn.f.kz/prod/1062/1061595_550.jpg',
+    name: 'Kingston оригинальная игровая гарнитура HyperX Cloud Core черные ПК PS4 Xbox мобильного устройства gaming наушники проводные',
+    description: 'Бренд: KingStonМодель Кингстон: KHX-HSCC-BK-FRРазъёмы: 3,5 ммКлавиши управления: НетАктивное шумоподавление: ДаКонструкция: НаушникиСпособ подключения: КабельноеТип излучателей: ДругиеРегулировка громкости: ДаТип беспроводной связи: НетПоддерживаемые аудиокодеки: Apt-XПоддержка карт памяти: НетС микрофоном: ДаНомер модели: KHX-HSCC-BKСопротивление: 60ΩДиапазон воспроизводимых частот: 15-25000 ГцНазначение: Игровая гарнитураНазначение: УниверсальныеНазначение: Гарнитура для телефонаНазначение: Hi-FiЧувствительность: 90±3 дБЗащита от влаги: НетПодключение: НетДлина кабеля: 1.0 мФорма коннектора: ПрямойУправление через приложение: НетApplicable: computer, Xbox, PSGame performance: fever level',
+    rating: 'Rating: 4.6'
+  },
+  {
+    url: 'https://aliexpress.ru/item/4000444175259.html?spm=a2g0o.productlist.0.0.789475bdTuMARj&algo_pvid=e13fe9ce-6058-4554-bbab-12f8f4920b90&algo_expid=e13fe9ce-6058-4554-bbab-12f8f4920b90-1&btsid=0b0a01f815817374021861828e2a75&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_',
+    img: 'https://ae01.alicdn.com/kf/H7e88c515f0bb4e8f9ee351de4e7b14e02/kingston-HyperX-Cloud-Orbit-S-3D.jpg',
+    name: 'Оригинальная игровая гарнитура kingston HyperX Cloud Orbit S, 3D аудио наушники для отслеживания головы для ПК, PS4, Xbox One, Mac и nintendo Switc',
+    description: 'Бренд: KingStonМодель Кингстон: KHX-HSCP-GMРазъёмы: USBКлавиши управления: ДаАктивное шумоподавление: ДаКонструкция: НаушникиСпособ подключения: КабельноеТип излучателей: ДругиеРегулировка громкости: ДаТип беспроводной связи: НетС микрофоном: ДаНомер модели: HX-HSCOS-GM/WWСопротивление: 65ΩДиапазон воспроизводимых частот: 20-40000 ГцНазначение: Для телеконференцийНазначение: Игровая гарнитураЧувствительность: 120 дБЗащита от влаги: НетПодключение: НетДлина кабеля: 1.3 мФорма коннектора: ПрямойУправление через приложение: ДаUse: video Gaming HeadsetGame: Playerunknowns BattlegroundsDriver: flat sensor, 100 mmType: earmuff type, closed typeSound pressure level: > 120 dBMode: 3D audio head trackingWeight: 368 gramsCable length: USB Type C to USB A: 3mUSB Type C to USB Type C: 1.5m3.5 mm jack (4 poles): 1.2mMicrophone component: electret microphoneMicrophone Polarity Mode: UnidirectionalMicrophone battery life: Analog 3.5mm mode: 10 hours',
+    rating: 'Rating: 5.0'
+  },
+  {
+    url: 'https://aliexpress.ru/item/33009640526.html?spm=a2g0o.productlist.0.0.789475bdTuMARj&algo_pvid=e13fe9ce-6058-4554-bbab-12f8f4920b90&algo_expid=e13fe9ce-6058-4554-bbab-12f8f4920b90-2&btsid=0b0a01f815817374021861828e2a75&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_',
+    img: 'https://ae01.alicdn.com/kf/HTB1OZ0gT6DpK1RjSZFrq6y78VXaG/kingston-HyperX-Cloud-Mix-Bluetooth.jpg',
+    name: 'kingston HyperX Cloud Mix двухзвуковая Беспроводная Bluetooth игровая гарнитура для мобильного телефона, компьютера Xbox PS блютуз наушники',
+    description: 'Конструкция: НаушникиКонструкция: Головная повязкаСпособ подключения: wirelessРазъёмы: 3,5 ммРазъёмы: 3,5 ммТип беспроводной связи: BluetoothТип излучателей: ДругиеКлавиши управления: ДаРегулировка громкости: ДаАктивное шумоподавление: ДаНазначение: Гарнитура для телефонаНазначение: Для iPodНазначение: Hi-FiНазначение: СпортивныеФорма коннектора: wirelessФорма коннектора: ПрямойЧувствительность: 122±3 дБДиапазон воспроизводимых частот: 10-30000 ГцДлина кабеля: 1.3 мСопротивление: 50 ΩСопротивление: 30ΩЗащита от влаги: НетНомер модели: HX-HSCAM-GMПоддержка карт памяти: НетУправление через приложение: НетПодключение: ДаС микрофоном: ДаС микрофоном: ДаПоддерживаемые аудиокодеки: AACБренд: KingStonМодель Кингстон: HX-HSCR-BK/ASColor: BlackFrequency response range: 10Hz-40000HzWeight: 260gheadphone cable: 1.3 mPC extension cable: 2 metersUSB charging cable: 0.5 mGross weight of goods: 0.8kgConnection method: wireless, BluetoothGame performance: fever levelWearing style: game headset',
+    rating: 'Rating: 4.9'
+  },
+  {
+    url: 'https://aliexpress.ru/item/32961705106.html?spm=a2g0o.productlist.0.0.789475bdTuMARj&algo_pvid=e13fe9ce-6058-4554-bbab-12f8f4920b90&algo_expid=e13fe9ce-6058-4554-bbab-12f8f4920b90-3&btsid=0b0a01f815817374021861828e2a75&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_',
+    img: 'https://ae01.alicdn.com/kf/HTB1KyIoacfrK1Rjy0Fmq6xhEXXay/HyperX-30.jpg',
+    name: 'HyperX Новое беспроводные наушники облачная гарнитура полетов, 30 часов время работы батареи PS4, ПК, игровые',
+    description: 'Бренд: KingStonМодель Кингстон: HX-HSCR-BK/ASРазъёмы: 3,5 ммКлавиши управления: ДаАктивное шумоподавление: ДаКонструкция: Головная повязкаСпособ подключения: Беспроводное/КабельноеТип излучателей: ГибридныеРегулировка громкости: ДаТип беспроводной связи: РЧТип беспроводной связи: BluetoothТип беспроводной связи: NFCТип беспроводной связи: Wi-FiПоддержка карт памяти: НетС микрофоном: ДаНомер модели: HX-HSCF-BK-AMСопротивление: 30ΩДиапазон воспроизводимых частот: 20-24000 ГцНазначение: Для телеконференцийНазначение: МониторныеНазначение: Гарнитура для телефонаНазначение: Hi-FiНазначение: Для iPodНазначение: Игровая гарнитураНазначение: УниверсальныеНазначение: СпортивныеЧувствительность: 45 дБЗащита от влаги: ДаПодключение: НетДлина кабеля: НетФорма коннектора: ПрямойУправление через приложение: Нет',
+    rating: 'Rating: 4.7'
+  },
+  {
+    url: 'https://aliexpress.ru/item/4000510984568.html?spm=a2g0o.productlist.0.0.789475bdTuMARj&algo_pvid=e13fe9ce-6058-4554-bbab-12f8f4920b90&algo_expid=e13fe9ce-6058-4554-bbab-12f8f4920b90-4&btsid=0b0a01f815817374021861828e2a75&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_',
+    img: 'https://ae01.alicdn.com/kf/Hc24b0f2de67c49b188a848dcab972bf0N/kingston-HyperX-Cloud-Mix-bluetooth.jpg',
+    name: 'Проводная игровая гарнитура kingston HyperX Cloud Mix, bluetooth-наушники со съемным микрофоном, многофункциональные платформенные совместимые наушники',
+    description: 'Бренд: KingStonМодель Кингстон: HX-HSCR-BK/ASТип беспроводной связи: BluetoothТип излучателей: ДругиеРазъёмы: USBКлавиши управления: ДаАктивное шумоподавление: ДаСпособ подключения: Беспроводное/КабельноеРегулировка громкости: ДаКонструкция: НаушникиЧувствительность: 42±3 дБПодключение: ДаДлина кабеля: 1.3 мУправление через приложение: НетНазначение: Для телеконференцийНазначение: Игровая гарнитураНазначение: УниверсальныеНазначение: Гарнитура для телефонаФорма коннектора: USBНомер модели: HyperX Cloud MixПоддержка карт памяти: НетСопротивление: 40ΩЗащита от влаги: НетДиапазон воспроизводимых частот: 10Hz-40000HzС микрофоном: ДаModel: HX-HSCAM-GM/HX-HSCAM-RG/WWColor: Black/Rose GoldFrequency response range: 10Hz-40000HzImpedance: 40ΩSensitivity: 1 kHz 100dBSPL/mWWeight: 260g, with cable and microphone 275gRemovable headphone cable1: 1.3 mPC extension cable: 2 metersUSB charging cable: 0.5 mProduct Features: Wired+Bluetooth Gaming HeadsetGross weight of goods: 0.8kgConnection method: wireless, Bluetooth,WiredApplicable: mobile phone, computer, Xbox, PSWearing style: head-mounted, game headset',
+    rating: 'Rating: 4.6'
+  },
+  {
+    url: 'https://aliexpress.ru/item/32833848948.html?spm=a2g0o.productlist.0.0.789475bdTuMARj&algo_pvid=e13fe9ce-6058-4554-bbab-12f8f4920b90&algo_expid=e13fe9ce-6058-4554-bbab-12f8f4920b90-5&btsid=0b0a01f815817374021861828e2a75&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_',
+    img: 'https://ae01.alicdn.com/kf/HTB1HRc7efJNTKJjSspoq6A6mpXal/kingston-HyperX-Cloud-Revolver-S.jpg',
+    name: 'Игровая Проводная гарнитура kingston HyperX Cloud Revolver S со съемным микрофоном, игровая музыка, MP3 DJ PS4, наушники 3,5 мм для ПК hyperx gaming earphone',
+    description: 'Бренд: KingStonМодель Кингстон: HX-HSCR-BK/ASРазъёмы: 3,5 ммКлавиши управления: ДаАктивное шумоподавление: ДаКонструкция: Головная повязкаСпособ подключения: КабельноеТип излучателей: ГибридныеРегулировка громкости: ДаТип беспроводной связи: НетПоддержка карт памяти: НетС микрофоном: ДаНомер модели: HX-HSCRS-GM/ASСопротивление: 30ΩДиапазон воспроизводимых частот: 12Hz-28,000HzНазначение: Гарнитура для телефонаНазначение: МониторныеНазначение: СпортивныеНазначение: Для телеконференцийНазначение: УниверсальныеНазначение: Игровая гарнитураНазначение: Hi-FiНазначение: Для iPodЧувствительность: 40 дБЗащита от влаги: НетПодключение: НетДлина кабеля: 3.0 мФорма коннектора: ПрямойУправление через приложение: НетName 1: Microphone Volume Control Headset 3.5mm PlugResistance: 30ΩFrequency Response Range: 12Hz-28,000HzFunction: For Routine Office WorkSensitivity: 40±3dBTime to market: 2017With Microphone: YesEarphones: headphones for computerHeadphone: earphone/Game Music PC MP3 speaker driver earphone note DJ 3.5mm compu',
+    rating: 'Rating: 4.8'
+  },
+  {
+    url: 'https://aliexpress.ru/item/32833321032.html?spm=a2g0o.productlist.0.0.789475bdTuMARj&algo_pvid=e13fe9ce-6058-4554-bbab-12f8f4920b90&algo_expid=e13fe9ce-6058-4554-bbab-12f8f4920b90-6&btsid=0b0a01f815817374021861828e2a75&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_',
+    img: 'https://ae01.alicdn.com/kf/HTB17vu9jMoQMeJjy1Xaq6ASsFXav/Kingston-HyperX-Cloud-II-Hi-Fi-3-5.jpg_50x50.jpg',
+    name: 'Kingston HyperX игровая гарнитура Cloud II Hi-Fi 3,5 мм портативная аудио/ видео для ПК и PS4 музыкальный динамик микрофон наушники Xbox',
+    description: 'Назначение: Гарнитура для телефонаНазначение: МониторныеНазначение: СпортивныеНазначение: Для телеконференцийНазначение: УниверсальныеНазначение: Игровая гарнитураНазначение: Hi-FiНазначение: Для iPodУправление через приложение: НетПоддержка Apt-X: НетНомер модели: KHX-HSCP-GMТип излучателей: ГибридныеСопротивление: 60ΩДлина кабеля: 3.0 мФорма коннектора: ПрямойЧувствительность: 123 дБКонструкция: Головная повязкаБренд: KingStonПодключение: НетРегулировка громкости: ДаАктивное шумоподавление: ДаТип беспроводной связи: НетЗащита от влаги: НетСпособ подключения: КабельноеРазъёмы: USBС микрофоном: ДаКлавиши управления: ДаДиапазон воспроизводимых частот: 15-25000 ГцМодель Кингстон: KHX-HSCP-GMColor: GMEarphones & Headphones: Game Music PC MP3 speakerGaming: 3.5mm for computerPortable Audio & Video: Headset for PS4XBox: Hi-Fi Gaming HeadsetDJ MP3: Gaming perfect Headphone',
+    rating: 'Rating: 4.5'
+  },
+  {
+    url: 'https://aliexpress.ru/item/33008558911.html?spm=a2g0o.productlist.0.0.789475bdTuMARj&algo_pvid=e13fe9ce-6058-4554-bbab-12f8f4920b90&algo_expid=e13fe9ce-6058-4554-bbab-12f8f4920b90-7&btsid=0b0a01f815817374021861828e2a75&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_',
+    img: 'https://ae01.alicdn.com/kf/H155cfa0b51624d44a6c83ee71dc4134fS/kingston-HyperX-Cloud-Alpha-E-sports-PS4.jpg',
+    name: 'Оригинальная kingston HyperX Cloud Alpha E-sports игровая гарнитура ПК PS4 Xbox Mobile наушники проводные gaming',
+    description: 'Бренд: KingStonМодель Кингстон: HX-HSCR-BK/ASКлавиши управления: ДаАктивное шумоподавление: ДаКонструкция: НаушникиТип беспроводной связи: НетРазъёмы: 3,5 ммСпособ подключения: КабельноеТип излучателей: ДругиеРегулировка громкости: ДаДиапазон воспроизводимых частот: 14-24000 ГцНазначение: Для телеконференцийНазначение: Игровая гарнитураНазначение: УниверсальныеНазначение: Гарнитура для телефонаЧувствительность: 98±3 дБПодключение: НетФорма коннектора: ПрямойПоддержка карт памяти: НетС микрофоном: ДаНомер модели: HX-HSCA-RDASСопротивление: 65ΩЗащита от влаги: НетДлина кабеля: 1.3 мУправление через приложение: Нет',
+    rating: 'Rating: 4.6'
+  },
+  {
+    url: 'https://aliexpress.ru/item/32834088223.html?spm=a2g0o.productlist.0.0.789475bdTuMARj&algo_pvid=e13fe9ce-6058-4554-bbab-12f8f4920b90&algo_expid=e13fe9ce-6058-4554-bbab-12f8f4920b90-8&btsid=0b0a01f815817374021861828e2a75&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_',
+    img: 'https://ae01.alicdn.com/kf/HTB1SACoeLNZWeJjSZFpq6xjBFXak/kingston-HyperX-Cloud-II-Hi-Fi-7-1.jpg_50x50.jpg',
+    name: 'kingston HyperX Cloud II Hi -Fi 7,1 объемным звуком, игровые наушники микрофоном 3,5 мм компьютера, мобильного телефона, hyperx',
+    description: 'Назначение: Гарнитура для телефонаНазначение: МониторныеНазначение: СпортивныеНазначение: Для телеконференцийНазначение: УниверсальныеНазначение: Игровая гарнитураНазначение: Hi-FiНазначение: Для iPodУправление через приложение: НетПоддержка Apt-X: НетНомер модели: KHX-HSCP-RDПоддержка карт памяти: НетПодключение: ДаТип излучателей: ГибридныеСопротивление: 60ΩДлина кабеля: 3.0 мФорма коннектора: ПрямойЧувствительность: 123 дБКонструкция: Головная повязкаБренд: KingStonРегулировка громкости: ДаАктивное шумоподавление: ДаТип беспроводной связи: НетЗащита от влаги: НетСпособ подключения: КабельноеРазъёмы: USBМодель Кингстон: KHX-HSCPС микрофоном: ДаКлавиши управления: ДаДиапазон воспроизводимых частот: 15-25000 ГцColor: RedEarphones & Headphones: Game Music PC MP3 speakerGaming: 3.5mm for computerPortable Audio & Video: Headset for PS4XBox: Hi-Fi Gaming HeadsetDJ MP3: Gaming perfect Headphone',
+    rating: 'Rating: 4.5'
+  },
+  {
+    url: 'https://aliexpress.ru/item/32833925980.html?spm=a2g0o.productlist.0.0.789475bdTuMARj&algo_pvid=e13fe9ce-6058-4554-bbab-12f8f4920b90&algo_expid=e13fe9ce-6058-4554-bbab-12f8f4920b90-9&btsid=0b0a01f815817374021861828e2a75&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_',
+    img: 'https://ae01.alicdn.com/kf/Hb7f6227131cd44ec9d9fde0ac6099a29D/Kingston-Cloud-hyperx.jpg',
+    name: 'Kingston Игровая гарнитура подходит телефона серии Cloud hyperx наушники проводные',
+    description: 'Бренд: KingStonМодель Кингстон: HX-HSCX-SR/ASРазъёмы: 3,5 ммКлавиши управления: ДаАктивное шумоподавление: ДаКонструкция: Головная повязкаСпособ подключения: КабельноеТип излучателей: ГибридныеРегулировка громкости: ДаТип беспроводной связи: НетПоддержка карт памяти: НетС микрофоном: ДаНомер модели: HX-HSCL-SR/NAСопротивление: 60ΩДиапазон воспроизводимых частот: 15-25000 ГцНазначение: Для телеконференцийНазначение: Игровая гарнитураНазначение: Гарнитура для телефонаНазначение: Hi-FiНазначение: УниверсальныеНазначение: СпортивныеНазначение: Для iPodНазначение: МониторныеЧувствительность: 98дбЗащита от влаги: НетПодключение: НетДлина кабеля: 1.3 мФорма коннектора: ПрямойУправление через приложение: НетName 1: HyperX Cloud Core Gaming Headset Suitable for computer phoneName 2: Microphone Volume Control Headset 3.5mm PlugFrequency Response Range: 10-25000Hzime to market: 2017With Microphone: Yesearphone: headphoneHeadphones: earphones',
+    rating: 'Rating: 5.0'
+  },
+
+];
+

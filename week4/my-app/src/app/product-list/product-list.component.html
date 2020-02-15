@@ -1,0 +1,24 @@
+<h2> Наушники</h2>
+
+<div  *ngFor="let product of products">
+
+  <h3>
+    <a href="{{product.url}}" [title]="product.name + ' details'">
+      {{ product.name }}
+    </a>
+  </h3 >
+    <a href="{{product.url}}"><img src="{{product.img}}"></a>
+  <p *ngIf="product.description">
+    Description: {{ product.description }}
+  </p>
+  <img id="img" src="https://pngimg.com/uploads/star/star_PNG41472.png">
+  <span id="rating">{{product.rating}}</span><br><br>
+  <button> 
+    <a href = "https://api.whatsapp.com/send?phone=77079344712&text={{product.name     }}        {{product.url}}"  style="color: white"> Share</a>
+ 
+  </button>
+
+
+</div>
+
+

@@ -94,10 +94,12 @@ ul {
     transform: rotate(45deg);
     height: 15px;
     width: 7px;
+    
   }
   
   /* Style the btn_delete button */
-.btn_delete {
+/*
+  .btn_delete {
 
     position: absolute;
     right: 0;
@@ -110,3 +112,4 @@ ul {
     background-color: #f44336;
     color: white;
   }
+  */

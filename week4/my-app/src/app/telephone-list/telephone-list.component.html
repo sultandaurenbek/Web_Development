@@ -1,0 +1,31 @@
+<h2> Телефоны</h2>
+<div class="products_block">
+<div  *ngIf="category_list.id === 2">
+
+ <div class="product_div">
+  <h3>
+    <a href="{{products.url}}" [title]="products.name + ' details'">
+      {{ product.name }}
+    </a>
+  </h3 >
+    <a href="{{products.url}}"><img src="{{products.img}}"></a>
+    <div class="div_description">
+  <p class="descriptions" *ngIf="products.description">
+    Description: {{ products.description }}
+  </p>
+</div>
+<div class="share_button">
+  <img id="img" src="https://pngimg.com/uploads/star/star_PNG41472.png">
+  <span id="rating">{{products.rating}}</span><br><br>
+  <button> 
+    <a href = "https://api.whatsapp.com/send?phone=77079344712&text={{product.name     }}        {{product.url}}"  style="color: white"> Share</a>
+ 
+  </button>
+</div>
+
+
+</div>
+</div>
+</div>
+
+

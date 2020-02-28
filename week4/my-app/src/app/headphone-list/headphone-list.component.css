@@ -1,0 +1,45 @@
+img {
+    width:300px;
+    height: 280px;
+  }
+  #img{
+    width: 25px;
+    height: 25px;
+   
+  }
+  div {
+    padding-right: 50px;
+    padding-bottom: 15px;
+    margin-bottom: 15px;
+    margin-top: 15px;
+  }
+  h2 {
+    font-weight: bold;
+  }
+  span {
+    font-weight: bold;
+  }
+  #rating{
+  position: absolute;
+  padding-left: 2%;
+  
+  margin-top: 0.5%;
+  
+  }
+  button{
+    background-color: orange;
+    
+  }
+  
+  
+  /*.products_block{
+    display: flex;
+    flex-wrap: wrap;
+  justify-content: center;
+  }
+  .product_div{
+    width: 400px;
+    bor
+  }
+  */
+  

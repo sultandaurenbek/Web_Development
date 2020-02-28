@@ -1,4 +1,28 @@
 
+.category_menu a {
+    padding: 5px 10px;
+    text-decoration: none;
+    margin-top: 10px;
+    display: inline-block;
+    font-size: 20px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, '.SFNSText-Regular', sans-serif;
+    
+   
+    border-radius: 4px;
+  }
+.category_menu a:visited, a:link {
+    color: black;
+  }
+.category_menu a:hover {
+    color: white;
+   
+  }
+  .category_menu a.active {
+    color:white;
+  }
+
+  
+
 
 /*
 Copyright Google LLC. All Rights Reserved.

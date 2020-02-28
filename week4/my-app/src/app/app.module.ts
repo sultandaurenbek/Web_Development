@@ -3,12 +3,18 @@ import { BrowserModule } from '@angular/platform-browser';
 import { RouterModule } from '@angular/router';
 import { ReactiveFormsModule } from '@angular/forms';
 
+import { AppRoutingModule, routingComponents } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { TopBarComponent } from './top-bar/top-bar.component';
 import { ProductListComponent } from './product-list/product-list.component';
+import { TelephoneListComponent } from './telephone-list/telephone-list.component';
+import { WatchListComponent } from './watch-list/watch-list.component';
+import { TabletListComponent } from './tablet-list/tablet-list.component';
+import { HeadphoneListComponent } from './headphone-list/headphone-list.component';
 
 @NgModule({
   imports: [
+    AppRoutingModule,
     BrowserModule,
     ReactiveFormsModule,
     RouterModule.forRoot([
@@ -18,7 +24,8 @@ import { ProductListComponent } from './product-list/product-list.component';
   declarations: [
     AppComponent,
     TopBarComponent,
-    ProductListComponent
+    ProductListComponent,
+   routingComponents,
   ],
   bootstrap: [ AppComponent ]
 })

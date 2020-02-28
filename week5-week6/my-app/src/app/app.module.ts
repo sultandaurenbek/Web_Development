@@ -7,6 +7,9 @@ import { CategoriesComponent } from './categories/categories.component';
 import { ProductsComponent } from './products/products.component';
 import { TopBarComponent } from './top-bar/top-bar.component';
 import { ProductdetailsComponent } from './productdetails/productdetails.component';
+import { CartComponent } from './cart/cart.component';
+import { HttpClientModule } from '@angular/common/http';
+import { ShippingComponent } from './shipping/shipping.component';
 
 @NgModule({
   declarations: [
@@ -14,10 +17,13 @@ import { ProductdetailsComponent } from './productdetails/productdetails.compone
     TopBarComponent,
     CategoriesComponent,
     ProductsComponent,
-    ProductdetailsComponent
+    ProductdetailsComponent,
+    CartComponent,
+    ShippingComponent
   ],
   imports: [
     BrowserModule,
+    HttpClientModule,
     ReactiveFormsModule,
     AppRoutingModule
   ],

@@ -1,4 +1,5 @@
 .main_image{
+    text-align: center;
     margin-top: 2%;
     width: 400px;
     height: 400px;
@@ -6,8 +7,9 @@
 }
 #product_img{
     padding-top: 10px;
-    width: 90%;
+    width: 55%;
     height: 95%;
+    
 }
 .product_name{
     margin-left: 30%;
@@ -28,4 +30,9 @@ margin-top: -28%;
     color: white;
     text-decoration: none;
 }
-
+#btn_buy{
+    position: relative;
+    margin-left: 30%;
+    background-color: green;
+    
+}

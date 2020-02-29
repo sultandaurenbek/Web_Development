@@ -8,4 +8,5 @@ export interface Product {
     originalLink:string;
     images:any;
     categoryName:string;
+    view_count:number;
   }

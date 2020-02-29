@@ -10,7 +10,8 @@ export const  PRODUCTS: Product[]= [
       rating:'4.9',
       originalLink:'https://aliexpress.ru/item/33004981158.html?spm=a2g0o.productlist.0.0.789475bdTuMARj&algo_pvid=e13fe9ce-6058-4554-bbab-12f8f4920b90&algo_expid=e13fe9ce-6058-4554-bbab-12f8f4920b90-0&btsid=0b0a01f815817374021861828e2a75&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_',
       images: 'https://cdn.f.kz/prod/1062/1061595_550.jpg',
-      categoryName:'HeadPhones'
+      categoryName:'HeadPhones',
+      view_count:1
                
     },
     {
@@ -22,7 +23,8 @@ export const  PRODUCTS: Product[]= [
       rating:'5.0',
       originalLink:'https://aliexpress.ru/item/33009640526.html?spm=a2g0o.productlist.0.0.789475bdTuMARj&algo_pvid=e13fe9ce-6058-4554-bbab-12f8f4920b90&algo_expid=e13fe9ce-6058-4554-bbab-12f8f4920b90-2&btsid=0b0a01f815817374021861828e2a75&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_',
       images: 'https://ae01.alicdn.com/kf/HTB1OZ0gT6DpK1RjSZFrq6y78VXaG/kingston-HyperX-Cloud-Mix-Bluetooth.jpg',
-      categoryName:''       
+      categoryName:'' ,  
+      view_count:1  
     },
     {
       id:12,
@@ -33,7 +35,8 @@ export const  PRODUCTS: Product[]= [
       rating:'4.5',
       originalLink:'https://aliexpress.ru/item/32833321032.html?spm=a2g0o.productlist.0.0.789475bdTuMARj&algo_pvid=e13fe9ce-6058-4554-bbab-12f8f4920b90&algo_expid=e13fe9ce-6058-4554-bbab-12f8f4920b90-6&btsid=0b0a01f815817374021861828e2a75&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_',
       images: 'https://media.kingston.com/hyperx/features/hx-features-headset-cloud-black.jpg',
-      categoryName:''        
+      categoryName:'',     
+      view_count:1 
     },
     {
       id:13,
@@ -44,7 +47,8 @@ export const  PRODUCTS: Product[]= [
       rating:'4.7',
       originalLink:'https://aliexpress.ru/item/32833848948.html?spm=a2g0o.productlist.0.0.789475bdTuMARj&algo_pvid=e13fe9ce-6058-4554-bbab-12f8f4920b90&algo_expid=e13fe9ce-6058-4554-bbab-12f8f4920b90-5&btsid=0b0a01f815817374021861828e2a75&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_',
       images: 'https://ae01.alicdn.com/kf/HTB1HRc7efJNTKJjSspoq6A6mpXal/kingston-HyperX-Cloud-Revolver-S.jpg',
-      categoryName:''        
+      categoryName:'',     
+      view_count:1
     },
     {
       id:14,
@@ -55,7 +59,8 @@ export const  PRODUCTS: Product[]= [
       rating:'4.6',
       originalLink:'https://aliexpress.ru/item/32833321032.html?spm=a2g0o.productlist.0.0.789475bdTuMARj&algo_pvid=e13fe9ce-6058-4554-bbab-12f8f4920b90&algo_expid=e13fe9ce-6058-4554-bbab-12f8f4920b90-6&btsid=0b0a01f815817374021861828e2a75&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_',
       images: 'https://ae01.alicdn.com/kf/H155cfa0b51624d44a6c83ee71dc4134fS/kingston-HyperX-Cloud-Alpha-E-sports-PS4.jpg',
-      categoryName:''        
+      categoryName:'',
+      view_count:1        
     },
     {
       id:15,
@@ -66,7 +71,8 @@ export const  PRODUCTS: Product[]= [
       rating:'4.8',
       originalLink:'https://aliexpress.ru/item/4000510984568.html?spm=a2g0o.productlist.0.0.789475bdTuMARj&algo_pvid=e13fe9ce-6058-4554-bbab-12f8f4920b90&algo_expid=e13fe9ce-6058-4554-bbab-12f8f4920b90-4&btsid=0b0a01f815817374021861828e2a75&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_',
       images: 'https://ae01.alicdn.com/kf/Hc24b0f2de67c49b188a848dcab972bf0N/kingston-HyperX-Cloud-Mix-bluetooth.jpg',
-      categoryName:''        
+      categoryName:'',
+      view_count:1        
     },
     {
       id:16,
@@ -77,7 +83,8 @@ export const  PRODUCTS: Product[]= [
       rating:'5.0',
       originalLink:'https://aliexpress.ru/item/4000444175259.html?spm=a2g0o.productlist.0.0.789475bdTuMARj&algo_pvid=e13fe9ce-6058-4554-bbab-12f8f4920b90&algo_expid=e13fe9ce-6058-4554-bbab-12f8f4920b90-1&btsid=0b0a01f815817374021861828e2a75&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_',
       images: 'https://ae01.alicdn.com/kf/H7e88c515f0bb4e8f9ee351de4e7b14e02/kingston-HyperX-Cloud-Orbit-S-3D.jpg',
-      categoryName:''
+      categoryName:'',
+      view_count:1
                
     },
     {
@@ -89,7 +96,8 @@ export const  PRODUCTS: Product[]= [
       rating:'4.7',
       originalLink:'https://aliexpress.ru/item/33009640526.html?spm=a2g0o.productlist.0.0.789475bdTuMARj&algo_pvid=e13fe9ce-6058-4554-bbab-12f8f4920b90&algo_expid=e13fe9ce-6058-4554-bbab-12f8f4920b90-2&btsid=0b0a01f815817374021861828e2a75&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_',
       images: 'https://ae01.alicdn.com/kf/HTB1OZ0gT6DpK1RjSZFrq6y78VXaG/kingston-HyperX-Cloud-Mix-Bluetooth.jpg',
-      categoryName:''       
+      categoryName:'',
+      view_count:1       
     },
     {
       id:18,
@@ -100,7 +108,8 @@ export const  PRODUCTS: Product[]= [
       rating:'4.5',
       originalLink:'https://aliexpress.ru/item/32833321032.html?spm=a2g0o.productlist.0.0.789475bdTuMARj&algo_pvid=e13fe9ce-6058-4554-bbab-12f8f4920b90&algo_expid=e13fe9ce-6058-4554-bbab-12f8f4920b90-6&btsid=0b0a01f815817374021861828e2a75&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_',
       images: 'https://media.kingston.com/hyperx/features/hx-features-headset-cloud-black.jpg',
-      categoryName:''        
+      categoryName:'',
+      view_count:1        
     },
     {
       id:19,
@@ -111,7 +120,8 @@ export const  PRODUCTS: Product[]= [
       rating:'5.0',
       originalLink:'https://aliexpress.ru/item/33004981158.html?spm=a2g0o.productlist.0.0.789475bdTuMARj&algo_pvid=e13fe9ce-6058-4554-bbab-12f8f4920b90&algo_expid=e13fe9ce-6058-4554-bbab-12f8f4920b90-0&btsid=0b0a01f815817374021861828e2a75&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_',
       images: 'https://cdn.f.kz/prod/1062/1061595_550.jpg',
-      categoryName:''
+      categoryName:'',
+      view_count:1
                
     },
    
@@ -124,7 +134,8 @@ export const  PRODUCTS: Product[]= [
       rating:'4.7',
       originalLink:'https://aliexpress.ru/item/32854844856.html?spm=a2g0o.productlist.0.0.131f30b0ed2a2R&algo_pvid=d8bf0741-30c5-4de1-bc1d-d5cdf1d10180&algo_expid=d8bf0741-30c5-4de1-bc1d-d5cdf1d10180-0&btsid=0ab6f8ad15825172418242704eaee5&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_',
       images: 'https://images-na.ssl-images-amazon.com/images/I/61%2BfbdrjtCL._AC_SL1500_.jpg',
-      categoryName:'Phones'        
+      categoryName:'Phones',
+      view_count:1        
     },
     {
       id:21,
@@ -135,7 +146,8 @@ export const  PRODUCTS: Product[]= [
       rating:'4.9',
       originalLink:'https://aliexpress.ru/item/4000439155439.html?spm=a2g0o.productlist.0.0.665326e00iry5V&algo_pvid=272bffee-2662-4958-a4aa-382e8c5e1e94&algo_expid=272bffee-2662-4958-a4aa-382e8c5e1e94-0&btsid=0ab6f81615825175182128168e5356&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_',
       images: 'https://images-na.ssl-images-amazon.com/images/I/519KIlHA2wL._AC_SY879_.jpg',
-      categoryName:''          
+      categoryName:'',
+      view_count:1          
     },
     {
       id:22,
@@ -146,7 +158,8 @@ export const  PRODUCTS: Product[]= [
       rating:'5.0',
       originalLink:'https://aliexpress.ru/item/4000200667700.html?spm=a2g0o.productlist.0.0.17043680nekLM9&algo_pvid=67bc6c8a-8798-4ae8-9ba3-0b729591b1eb&algo_expid=67bc6c8a-8798-4ae8-9ba3-0b729591b1eb-0&btsid=0ab6f82315825176767747861e63df&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_',
       images: 'https://images-na.ssl-images-amazon.com/images/I/81HSzsIkJdL._AC_SL1500_.jpg',
-      categoryName:''         
+      categoryName:'',
+      view_count:1       
     },
     {
       id:23,
@@ -157,7 +170,8 @@ export const  PRODUCTS: Product[]= [
       rating:'4.8',
       originalLink:'https://aliexpress.ru/item/4000459786332.html?spm=a2g0o.productlist.0.0.45863d1aNASLX8&algo_pvid=90f249f0-d3b1-4221-b05d-51120c98756e&algo_expid=90f249f0-d3b1-4221-b05d-51120c98756e-0&btsid=0ab50f6215829262727757968e850f&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_',
       images: 'https://images-na.ssl-images-amazon.com/images/I/51BateZ5iqL._AC_SL1280_.jpg',
-      categoryName:''         
+      categoryName:'',
+      view_count:1         
     },
     {
       id:24,
@@ -168,7 +182,8 @@ export const  PRODUCTS: Product[]= [
       rating:'4.6',
       originalLink:'https://aliexpress.ru/item/4000017903494.html?spm=a2g0o.productlist.0.0.3693143aIVxQLs&algo_pvid=3af611b2-101f-41f3-8e1b-83f0d229daa6&algo_expid=3af611b2-101f-41f3-8e1b-83f0d229daa6-1&btsid=0ab6f82c15829278361404636e2ffb&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_',
       images: 'https://images-na.ssl-images-amazon.com/images/I/81h6OKGasAL._AC_SL1500_.jpg',
-      categoryName:''         
+      categoryName:'',
+      view_count:1         
     },
    
     {
@@ -180,7 +195,8 @@ export const  PRODUCTS: Product[]= [
       rating:'5.0',
       originalLink:'https://aliexpress.ru/item/32926198144.html?spm=a2g0o.productlist.0.0.3693143aIVxQLs&algo_pvid=3af611b2-101f-41f3-8e1b-83f0d229daa6&algo_expid=3af611b2-101f-41f3-8e1b-83f0d229daa6-5&btsid=0ab6f82c15829278361404636e2ffb&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_',
       images: 'https://images-na.ssl-images-amazon.com/images/I/51PNCsksstL._AC_SL1200_.jpg',
-      categoryName:''         
+      categoryName:'' ,
+      view_count:1        
     },
     {
       id:26,
@@ -191,7 +207,8 @@ export const  PRODUCTS: Product[]= [
       rating:'4.7',
       originalLink:'https://aliexpress.ru/item/4000105340122.html?spm=a2g0o.productlist.0.0.129e143adJ8kNX&algo_pvid=b8634224-cb3c-47d7-a9d4-22c8cf412d45&algo_expid=b8634224-cb3c-47d7-a9d4-22c8cf412d45-0&btsid=0ab6fb8315829283220658975ee495&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_',
       images: 'https://images-na.ssl-images-amazon.com/images/I/41NCIK4qdOL._AC_.jpg',
-      categoryName:''         
+      categoryName:'',
+      view_count:1         
     },
     {
       id:27,
@@ -202,7 +219,8 @@ export const  PRODUCTS: Product[]= [
       rating:'5.0',
       originalLink:'https://aliexpress.ru/item/33060222114.html?spm=a2g0o.productlist.0.0.129e143adJ8kNX&algo_pvid=b8634224-cb3c-47d7-a9d4-22c8cf412d45&algo_expid=b8634224-cb3c-47d7-a9d4-22c8cf412d45-1&btsid=0ab6fb8315829283220658975ee495&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_',
       images: 'https://images-na.ssl-images-amazon.com/images/I/51U74AZGyBL._AC_SL1000_.jpg',
-      categoryName:''         
+      categoryName:'',
+      view_count:1         
     },
     {
       id:28,
@@ -213,7 +231,8 @@ export const  PRODUCTS: Product[]= [
       rating:'4.6',
       originalLink:'https://aliexpress.ru/item/32901203607.html?spm=a2g0o.productlist.0.0.129e143adJ8kNX&algo_pvid=b8634224-cb3c-47d7-a9d4-22c8cf412d45&algo_expid=b8634224-cb3c-47d7-a9d4-22c8cf412d45-4&btsid=0ab6fb8315829283220658975ee495&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_',
       images: 'https://images-na.ssl-images-amazon.com/images/I/61HfhV%2B32UL._AC_SL1124_.jpg',
-      categoryName:''         
+      categoryName:'' ,
+      view_count:1        
     },
     {
       id:29,
@@ -224,7 +243,8 @@ export const  PRODUCTS: Product[]= [
       rating:'5.0',
       originalLink:'https://aliexpress.ru/item/4000200667700.html?spm=a2g0o.productlist.0.0.17043680nekLM9&algo_pvid=67bc6c8a-8798-4ae8-9ba3-0b729591b1eb&algo_expid=67bc6c8a-8798-4ae8-9ba3-0b729591b1eb-0&btsid=0ab6f82315825176767747861e63df&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_',
       images: 'https://images-na.ssl-images-amazon.com/images/I/81HSzsIkJdL._AC_SL1500_.jpg',
-      categoryName:''         
+      categoryName:'' ,
+      view_count:1        
     },
    
 
@@ -239,7 +259,8 @@ export const  PRODUCTS: Product[]= [
       rating:'4.6',
       originalLink: 'https://aliexpress.ru/item/32890964816.html?spm=a2g0o.productlist.0.0.3ac95205i7CI97&algo_pvid=8cbd4a7e-d072-4d65-8897-40e17dfcaeec&algo_expid=8cbd4a7e-d072-4d65-8897-40e17dfcaeec-1&btsid=0ab50a5715825184658994403e5917&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_',
       images: 'https://images-na.ssl-images-amazon.com/images/I/61QOb8P32nL._AC_SL1024_.jpg',
-      categoryName:'Tablets'
+      categoryName:'Tablets',
+      view_count:1
     },
 
     {
@@ -251,7 +272,8 @@ export const  PRODUCTS: Product[]= [
       rating:'4.8',
       originalLink: 'https://aliexpress.ru/item/4000426868310.html?spm=a2g0o.productlist.0.0.3ac95205i7CI97&algo_pvid=8cbd4a7e-d072-4d65-8897-40e17dfcaeec&algo_expid=8cbd4a7e-d072-4d65-8897-40e17dfcaeec-4&btsid=0ab50a5715825184658994403e5917&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_',
       images: 'https://images-na.ssl-images-amazon.com/images/I/614c-O9BQPL._AC_SL1000_.jpg',
-      categoryName:''
+      categoryName:'',
+      view_count:1
     },
 
     {
@@ -263,7 +285,8 @@ export const  PRODUCTS: Product[]= [
       rating:'4.7',
       originalLink: 'https://aliexpress.ru/item/4000315496961.html?spm=a2g0o.productlist.0.0.3ac95205i7CI97&algo_pvid=8cbd4a7e-d072-4d65-8897-40e17dfcaeec&algo_expid=8cbd4a7e-d072-4d65-8897-40e17dfcaeec-17&btsid=0ab50a5715825184658994403e5917&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_',
       images: 'https://images-na.ssl-images-amazon.com/images/I/71kRFlIKRdL._AC_SL1395_.jpg',
-      categoryName:''
+      categoryName:'',
+      view_count:1
    },
    {
     id:33,
@@ -274,7 +297,8 @@ export const  PRODUCTS: Product[]= [
     rating:'4.9',
     originalLink: 'https://aliexpress.ru/item/32859920249.html?spm',
     images: 'https://images-na.ssl-images-amazon.com/images/I/61vSgLui5QL._AC_SL1500_.jpg',
-    categoryName:''
+    categoryName:'',
+    view_count:1
  },
  {
   id:34,
@@ -285,7 +309,8 @@ export const  PRODUCTS: Product[]= [
   rating:'5.0',
   originalLink: 'https://aliexpress.ru/item/32955066655.html?spm',
   images: 'https://images-na.ssl-images-amazon.com/images/I/61coGd0i8DL._AC_SL1500_.jpg',
-  categoryName:''
+  categoryName:'',
+  view_count:1
 },
 {
   id:35,
@@ -296,7 +321,8 @@ export const  PRODUCTS: Product[]= [
   rating:'4.8',
   originalLink: 'https://aliexpress.ru/item/32845442452.html?spm',
   images: 'https://images-na.ssl-images-amazon.com/images/I/71LHc0enmbL._AC_SL1500_.jpg',
-  categoryName:''
+  categoryName:'',
+  view_count:1
 },
 {
   id:36,
@@ -307,7 +333,8 @@ export const  PRODUCTS: Product[]= [
   rating:'4.5',
   originalLink: 'https://aliexpress.ru/item/4000460985238.html?spm=a2g0o.productlist.0.0.47d446cdCs4SUl&algo_pvid=81c63746-57b5-481e-a2c7-22687df4e432&algo_expid=81c63746-57b5-481e-a2c7-22687df4e432-0&btsid=0ab50a5715829293689842699e61fc&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_',
   images: 'https://images-na.ssl-images-amazon.com/images/I/61xuj%2Bc9ocL._AC_SL1100_.jpg',
-  categoryName:''
+  categoryName:'',
+  view_count:1
 },
 {
   id:37,
@@ -318,7 +345,8 @@ export const  PRODUCTS: Product[]= [
   rating:'4.8',
   originalLink: 'https://aliexpress.ru/item/32850062342.html?spm=a2g0o.productlist.0.0.47d446cdCs4SUl&algo_pvid=81c63746-57b5-481e-a2c7-22687df4e432&algo_expid=81c63746-57b5-481e-a2c7-22687df4e432-3&btsid=0ab50a5715829293689842699e61fc&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_',
   images: 'https://images-na.ssl-images-amazon.com/images/I/613T11yky8L._AC_SL1101_.jpg',
-  categoryName:''
+  categoryName:'',
+  view_count:1
 },
 {
   id:38,
@@ -329,7 +357,8 @@ export const  PRODUCTS: Product[]= [
   rating:'4.6',
   originalLink: 'https://aliexpress.ru/item/4000549936421.html?spm=a2g0o.productlist.0.0.47d446cdCs4SUl&algo_pvid=81c63746-57b5-481e-a2c7-22687df4e432&algo_expid=81c63746-57b5-481e-a2c7-22687df4e432-13&btsid=0ab50a5715829293689842699e61fc&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_',
   images: 'https://static3.nordic.pictures/27723839-product_big/tablet-lenovo-tab-p10-101-za450044pl-101-32gb-3-gb-bluetooth-lte-wifi.jpg',
-  categoryName:''
+  categoryName:'',
+  view_count:1
 },
 {
   id:39,
@@ -340,7 +369,8 @@ export const  PRODUCTS: Product[]= [
   rating:'4.6',
   originalLink: 'https://aliexpress.ru/item/32890964816.html?spm=a2g0o.productlist.0.0.3ac95205i7CI97&algo_pvid=8cbd4a7e-d072-4d65-8897-40e17dfcaeec&algo_expid=8cbd4a7e-d072-4d65-8897-40e17dfcaeec-1&btsid=0ab50a5715825184658994403e5917&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_',
   images: 'https://images-na.ssl-images-amazon.com/images/I/61QOb8P32nL._AC_SL1024_.jpg',
-  categoryName:'Tablets'
+  categoryName:'Tablets',
+  view_count:1
 },
   
     {
@@ -352,7 +382,8 @@ export const  PRODUCTS: Product[]= [
       rating:'4.6',
       originalLink:'https://aliexpress.ru/item/4000119007084.html?spm=a2g0o.productlist.0.0.5c55363cmqJrAc&algo_pvid=db34c4a9-1638-468e-b985-2fe405ed1400&algo_expid=db34c4a9-1638-468e-b985-2fe405ed1400-1&btsid=0ab6d69f15825207886734438e1f32&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_',
       images: 'https://images-na.ssl-images-amazon.com/images/I/81HPwK-cfwL._AC_SL1500_.jpg',
-      categoryName:'Watches'
+      categoryName:'Watches',
+      view_count:1
  },
     {
       id:41,
@@ -363,7 +394,8 @@ export const  PRODUCTS: Product[]= [
       rating:'4.5',
       originalLink:'https://aliexpress.ru/item/4000333447256.html?spm=a2g0o.productlist.0.0.5c55363cmqJrAc&algo_pvid=db34c4a9-1638-468e-b985-2fe405ed1400&algo_expid=db34c4a9-1638-468e-b985-2fe405ed1400-9&btsid=0ab6d69f15825207886734438e1f32&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_',
       images: 'https://images-na.ssl-images-amazon.com/images/I/51h4z5dx3DL._AC_SL1077_.jpg',
-      categoryName:''
+      categoryName:'',
+      view_count:1
     },
     {
       id:42,
@@ -374,7 +406,8 @@ export const  PRODUCTS: Product[]= [
       rating:'5',
       originalLink:'https://aliexpress.ru/item/4000186040481.html?spm=a2g0o.productlist.0.0.106c4930eqtEYe&algo_pvid=12cb0d77-5af6-4064-aada-dca2f5e6b0fb&algo_expid=12cb0d77-5af6-4064-aada-dca2f5e6b0fb-1&btsid=0ab6d69f15825208222316135e1f32&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_',
       images: 'https://images-na.ssl-images-amazon.com/images/I/71isIVzDEtL._AC_SL1500_.jpg',
-      categoryName:''
+      categoryName:'',
+      view_count:1
     },
     {
       id:43,
@@ -385,7 +418,8 @@ export const  PRODUCTS: Product[]= [
       rating:'4.6',
       originalLink:'https://aliexpress.ru/item/33001225888.html?spm',
       images: 'https://images-na.ssl-images-amazon.com/images/I/81-sbZTrBvL._AC_SL1500_.jpg',
-      categoryName:''
+      categoryName:'',
+      view_count:1
     },
     {
       id:44,
@@ -396,7 +430,8 @@ export const  PRODUCTS: Product[]= [
       rating:'4.8',
       originalLink:'https://aliexpress.ru/item/33007256195.html?spm=a2g0o.productlist.0.0.59a31084gaDfD1&algo_pvid=e48fbfe7-5510-4875-ada2-561129a4426b&algo_expid=e48fbfe7-5510-4875-ada2-561129a4426b-5&btsid=0be3764315829304316091770eca31&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_',
       images: 'https://images-na.ssl-images-amazon.com/images/I/51oAPLRW9DL._AC_SL1000_.jpg',
-      categoryName:''
+      categoryName:'',
+      view_count:1
     },
     {
       id:45,
@@ -407,7 +442,8 @@ export const  PRODUCTS: Product[]= [
       rating:'4.6',
       originalLink:'https://aliexpress.ru/item/32870543434.html?spm=a2g0o.productlist.0.0.7d1d443chIR0bP&algo_pvid=daadc2cb-4b4e-46d1-bf37-91fea5e75da2&algo_expid=daadc2cb-4b4e-46d1-bf37-91fea5e75da2-0&btsid=0ab6f82215829306443838424e2201&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_',
       images: 'https://images-na.ssl-images-amazon.com/images/I/81ZKNYBwYlL._AC_SL1500_.jpg',
-      categoryName:''
+      categoryName:'',
+      view_count:1
     },
     {
       id:46,
@@ -418,7 +454,8 @@ export const  PRODUCTS: Product[]= [
       rating:'4.5',
       originalLink:'https://aliexpress.ru/item/4000333447256.html?spm=a2g0o.productlist.0.0.5c55363cmqJrAc&algo_pvid=db34c4a9-1638-468e-b985-2fe405ed1400&algo_expid=db34c4a9-1638-468e-b985-2fe405ed1400-9&btsid=0ab6d69f15825207886734438e1f32&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_',
       images: 'https://images-na.ssl-images-amazon.com/images/I/51h4z5dx3DL._AC_SL1077_.jpg',
-      categoryName:''
+      categoryName:'',
+      view_count:1
     },
     {
       id:47,
@@ -429,7 +466,8 @@ export const  PRODUCTS: Product[]= [
       rating:'4.6',
       originalLink:'https://aliexpress.ru/item/4000119007084.html?spm=a2g0o.productlist.0.0.5c55363cmqJrAc&algo_pvid=db34c4a9-1638-468e-b985-2fe405ed1400&algo_expid=db34c4a9-1638-468e-b985-2fe405ed1400-1&btsid=0ab6d69f15825207886734438e1f32&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_',
       images: 'https://images-na.ssl-images-amazon.com/images/I/81HPwK-cfwL._AC_SL1500_.jpg',
-      categoryName:'Watches'
+      categoryName:'Watches',
+      view_count:1
  },
  {
   id:48,
@@ -440,7 +478,8 @@ export const  PRODUCTS: Product[]= [
   rating:'5',
   originalLink:'https://aliexpress.ru/item/4000186040481.html?spm=a2g0o.productlist.0.0.106c4930eqtEYe&algo_pvid=12cb0d77-5af6-4064-aada-dca2f5e6b0fb&algo_expid=12cb0d77-5af6-4064-aada-dca2f5e6b0fb-1&btsid=0ab6d69f15825208222316135e1f32&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_',
   images: 'https://images-na.ssl-images-amazon.com/images/I/71isIVzDEtL._AC_SL1500_.jpg',
-  categoryName:''
+  categoryName:'',
+  view_count:1
 },
 {
   id:49,
@@ -451,7 +490,8 @@ export const  PRODUCTS: Product[]= [
   rating:'4.5',
   originalLink:'https://aliexpress.ru/item/4000333447256.html?spm=a2g0o.productlist.0.0.5c55363cmqJrAc&algo_pvid=db34c4a9-1638-468e-b985-2fe405ed1400&algo_expid=db34c4a9-1638-468e-b985-2fe405ed1400-9&btsid=0ab6d69f15825207886734438e1f32&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_',
   images: 'https://images-na.ssl-images-amazon.com/images/I/51h4z5dx3DL._AC_SL1077_.jpg',
-  categoryName:''
+  categoryName:'',
+  view_count:1
 },
    
   ];

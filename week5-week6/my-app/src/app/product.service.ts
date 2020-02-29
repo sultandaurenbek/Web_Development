@@ -13,20 +13,21 @@ export class ProductService {
 
   constructor() { }
 
-  getProducts(): Observable<Product[]> {
-    return of(PRODUCTS);
-  }
+ 
   getProduct(id): Observable<Product> {
     return of(PRODUCTS.find(product => product.id === id));
   }
   getCategory(): Observable<Category[]> {
     return of(CATEGORIES);
   }
-  getCategories(id: number): Observable<Category> {
-    return of(CATEGORIES.find(category => category.id === id));
-  }
+ 
   getProductofC(categoryId: number): Observable<Product[]> {
     return of(PRODUCTS.filter(product => product.categoryId === categoryId));
+  }
+
+  addview(id:number):Observable<Product> {
+    return of(PRODUCTS.find(product => product.id === id));
+    
   }
 
 

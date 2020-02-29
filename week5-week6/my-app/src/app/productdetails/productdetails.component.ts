@@ -26,6 +26,7 @@ export class ProductdetailsComponent implements OnInit {
     }
   ngOnInit(): void {
     this.getProduct();
+    this.addview();
  
   }
 
@@ -33,6 +34,11 @@ export class ProductdetailsComponent implements OnInit {
     const id = +this.route.snapshot.paramMap.get('id');
     this.productService.getProduct(id)
       .subscribe(tovar => this.product = tovar);
+  }
+  addview(): void {
+    const id = +this.route.snapshot.paramMap.get('id');
+    this.productService.addview(id)
+    this.product.view_count= this.product.view_count+1;
   }
  
 

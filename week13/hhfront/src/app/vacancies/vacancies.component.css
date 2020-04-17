@@ -1,0 +1,9 @@
+a{
+  color: blue;
+}
+.list{
+  border-style: solid;
+  border-width: 1px;
+  width: 600px;
+  margin-top: 10px;
+}
